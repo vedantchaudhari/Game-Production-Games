@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trash
+  - Animal
+  - Bait
+  - Destroyable
+  - attachable
+  - InvisibleBound
+  - Rope
+  - HookSpawn
+  - net
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Parallax
+    uniqueID: 791052231
+    locked: 0
+  - name: Sea
+    uniqueID: 4096630863
+    locked: 0
+  - name: PremadeBackground2
+    uniqueID: 2471129321
+    locked: 0
+  - name: PremadeBackground
+    uniqueID: 752167607
+    locked: 0
+  - name: BackgroundTwo
+    uniqueID: 2503021915
+    locked: 0
+  - name: Background
+    uniqueID: 3121778237
+    locked: 0
+  - name: Foreground
+    uniqueID: 1747847727
+    locked: 0
+  - name: LineRenderer
+    uniqueID: 2415795585
+    locked: 0
